@@ -1,2 +1,9 @@
 Add file1.txt
 Test notification
+
+
+Google Cloud Platform
+Metadata
+Генерация пары ключей для доступа к виртуальным машинам в проекте
+ssh-keygen -t rsa -f ~/.ssh/gcpuser -C gcpuser -P ""
+
